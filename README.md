@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://i.ibb.co/gFwRBkd/lolhuman.png" width="150" height="150" border="0" alt="PFP">
 
-# LoL Human WhatsApp Bot Multi Device
+# Anonymous-chat by RIMURUBOTZ
 
 <p align="center">
   <a href="https://github.com/LoL-Human"><img title="Author" src="https://img.shields.io/badge/Author-LoL--Human-blueviolet.svg?style=for-the-badge&logo=github" /></a>
@@ -15,24 +15,7 @@ Lightweight WhatsApp Bot
 
 </div>
 
-## ✨ Highlights
 
--   Written in [Javascript](https://www.javascript.com).
--   Has a plugin that makes it easier to condition the user.
--   Easy to maintenace without turning off the bot (hot reload).
--   Made with [Baileys - Multi Device](https://github.com/adiwajshing/Baileys/).
-
----
-
-## 📝 TO-DO
-
--   You can find it [here](https://github.com/LoL-Human/bot-wa/issues/1).
-
----
-
-## 💿 Installation
-
--   Change filename config.json.example to config.json then,
 
 ```cmd
 $ npm i
